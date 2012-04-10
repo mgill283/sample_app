@@ -2,8 +2,10 @@ source 'https://rubygems.org'
 
 gem 'rails'
 gem 'sqlite3-ruby'
+#gem 'pg'
 gem 'gravatar_image_tag'
 gem 'will_paginate'
+gem 'jquery-rails'
 
 group :development do
 	gem 'rspec-rails'
